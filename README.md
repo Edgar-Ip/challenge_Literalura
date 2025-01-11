@@ -1,6 +1,6 @@
 # challenge_Literalura
 ## Biblioteca Virtual (Challenge Literalura)
-### Implementación de API "Gutendex" en aplicación creada con lenguaje Java y Spring Boot para un buscador de libros (biblioteca virtual). Base de datos creada en PostgreSQL.
+### Implementación de API "Gutendex" en aplicación creada con lenguaje Java y Spring Boot para un buscador de libros conectando con la base de datos en PostgreSQL.
 
 Este proyecto consiste en la creación de una biblioteca virtual que utiliza la API "Gutendex" para obtener los datos sobre los títulos de libros, autores, año de lanzamiento del autor (de nacimiento y muerte) y el idioma del libro.
 Está desarrollado en Java conectado con Spring Boot y creando la base de datos en PostgreSQL, con un enfoque en ofrecer una interfaz de usuario sencilla y funcional para realizar la bÚsqueda de los libros registrados en la base de datos.
